@@ -17,6 +17,14 @@ How it works : [Documentation of Cl1p.net API]()
 
 - [@EnesBasmaci](https://github.com/EnesBasmaci)
 
+## Screenshots
+
+![App Screenshots](https://raw.githubusercontent.com/EnesBasmaci/Cl1p.net-API/Universal/Concepts/Verify%20if%20the%20Clipboard%20Exist.png)
+
+![App Screenshots](https://raw.githubusercontent.com/EnesBasmaci/Cl1p.net-API/Universal/Concepts/Deletion%20of%20a%20Clipboard.png)
+
+![App Screenshots](https://raw.githubusercontent.com/EnesBasmaci/Cl1p.net-API/Universal/Concepts/Create%20and%20get%20data%20from%20a%20Clipboard.png)
+
 
 ## Features
 

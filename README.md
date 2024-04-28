@@ -7,6 +7,7 @@ The API system for Cl1p.net online clipboard instance, coded in many programming
 ## API systems for every language
 
  - [Python API](https://github.com/EnesBasmaci/Cl1p.net-API/tree/Universal/Python)
+    - [Python Module to Install](https://github.com/EnesBasmaci/Cl1p.net-API/blob/Universal/Python/PythonModule.md)
  - [C/C++ API]()
 
 

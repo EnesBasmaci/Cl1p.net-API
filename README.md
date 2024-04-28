@@ -8,7 +8,6 @@ The API system for Cl1p.net online clipboard instance, coded in many programming
 
  - [Python API](https://github.com/EnesBasmaci/Cl1p.net-API/tree/Universal/Python)
     - [Python Module to Install](https://github.com/EnesBasmaci/Cl1p.net-API/blob/Universal/Python/PythonModule.md)
- - [C/C++ API]()
 
 
 Integrate a system to verify if the device has a connection to the internet and handle other particularly unwanted cases to avoid errors.
